@@ -8,3 +8,16 @@ This library is basically a wrapper for the [jnativehook](https://github.com/kwh
 
 * [Processing.org](https://github.com/processing)
 * [jnativehook](https://github.com/kwhat/jnativehook)
+
+## versions
+
+### 002 20150222
+
+* added a method to read the pixel color at a certain position ( via java.awt.Robot )
+* added methods to get the actual screen width and height of the host machine ( via java.awt.Robot )
+
+### 001 20150220
+
+* added distribution shell scripts
+* added examples
+* initial release
