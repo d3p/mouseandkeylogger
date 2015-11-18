@@ -11,6 +11,10 @@ This library is basically a wrapper for the [jnativehook](https://github.com/kwh
 
 ## versions
 
+### 003 20150225
+
+* added a windows x86 version of the native library ( thx to Håvard Lundberg from CIID )
+
 ### 002 20150222
 
 * added a method to read the pixel color at a certain position ( via java.awt.Robot )
