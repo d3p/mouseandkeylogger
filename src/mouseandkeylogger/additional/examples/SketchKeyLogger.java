@@ -7,9 +7,11 @@ public class SketchKeyLogger extends PApplet {
 
     private final StringBuffer mString = new StringBuffer();
 
-    public void setup() {
+    public void settings() {
         size(400, 300);
+    }
 
+    public void setup() {
         noStroke();
         fill(0);
 
